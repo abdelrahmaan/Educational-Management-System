@@ -1,0 +1,14 @@
+magdy hasan magdy.hasan17@hotmail.com sd001 sd001
+5
+prog1 CS01 1  prog1_assignment1 # 5 
+prog2 CS02 1  prog2_assignment1 new_assignment # 6 
+prog3 CS03 2  prog3_assignment1 # 10  prog3_assignment2 # 50 
+prog4 CS04 1  prog4_assignment2 # 100 
+DS01 DS01 1  assignment test_1 # 1212 
+
+ahmed mohamed ahmed.h@hotmail.com sd002 sd002
+2
+math1 CS05 1  math1_assignment1 # 5 
+math2 CS06 2  math2_assignment1 # 10  math2_assignment # 20 
+
+
